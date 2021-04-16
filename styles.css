@@ -19,3 +19,7 @@
 	left: 10px;
 	font-weight: bolder;
 }
+.dev_info > span{
+	font-weight: lighter;
+	font-style: italic;
+}
